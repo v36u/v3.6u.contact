@@ -2,6 +2,8 @@
 
 A fully customizable Astro template for creating web and PDF resume.
 
+> **Note:** This project is a fork of [Zenith](https://github.com/KonradSzwarc/zenith) by [Konrad Szwarc](https://github.com/KonradSzwarc).
+
 ## Features
 
 To decide if Zenith is the right template for you, check

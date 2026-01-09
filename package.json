@@ -1,16 +1,16 @@
 {
-  "name": "zenith",
+  "name": "v36u-personal-website",
   "version": "0.0.1",
   "private": true,
-  "description": "Template for creating a comprehensive virtual resume for developers.",
-  "homepage": "https://github.com/KonradSzwarc/zenith#readme",
-  "bugs": "https://github.com/KonradSzwarc/zenith/issues",
+  "description": "Portfolio/CV website of v36u.",
+  "homepage": "https://v3.6u.contact/",
+  "bugs": "https://github.com/v36u/v3.6u.contact",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KonradSzwarc/zenith.git"
+    "url": "https://github.com/v36u/v3.6u.contact.git"
   },
   "license": "MIT",
-  "author": "Konrad Szwarc <konrad.szwarc.dev@gmail.com> (https://github.com/KonradSzwarc)",
+  "author": "Vlad Dumitru <vlad-dumitru@outlook.com> (https://github.com/v36u)",
   "type": "module",
   "engines": {
     "node": "22.x",
